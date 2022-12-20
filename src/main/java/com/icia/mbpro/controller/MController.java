@@ -16,6 +16,9 @@ import com.icia.mbpro.service.MService;
 @Controller
 public class MController {
 	
+	// 깃허브 수정내용
+	// https://github.com/ICIA13/ProjectName에 업로드
+	
 	@Autowired
 	private MService msvc;
 	
